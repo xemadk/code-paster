@@ -1,0 +1,14 @@
+npm install redux --save
+
+npm install redux-thunk --save
+
+npm install axios --save
+
+npm install reselect --save
+
+npm install
+
+npm install react react-dom redux react-redux --save
+
+npm install @types/react @types/react-dom @types/react-redux --save-dev
+
